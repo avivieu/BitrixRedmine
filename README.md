@@ -1,1 +1,1 @@
-# Laravel service for integration Bitrix24 to Redmine
+# Laravel service for integration users Bitrix24 to Redmine
