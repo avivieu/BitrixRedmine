@@ -27,7 +27,7 @@ $ php artisan migrate --path=vendor/avivieu/bitrixRedmine/src/migrations
 **Change redmine settings from config path /config/redmine.php** 
 
 ## Usage
-For usage you need sent REST requests from bitrix to service with the requirements:
+For usage you need sent REST requests from bitrix to service with the next requirements:
 *  For create users - POST https://you-laravel-service-url.dev/redmine/user/create, width fields:
 $_POST['EMAIL'], $_POST['NAME'], $_POST['LAST_NAME'], $_POST['CONFIRM_PASSWORD'], $_POST['ID']
 * For update users - POST https://you-laravel-service-url.dev/redmine/user/update/{id}  width fields:
