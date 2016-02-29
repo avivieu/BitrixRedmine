@@ -16,7 +16,7 @@ $ composer require kbsali/redmine-api:~1.0
 $ composer require avivieu/bitrixRedmine
 ```
 
-**Publich assets** 
+**Publish assets** 
 ``` bash 
 php artisan vendor:publish --provider="avivieu\bitrixRedmine\bitrixRedmineServiceProvider"
 ```
