@@ -44,7 +44,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 
 ## Credits
 
-[Avivi](avivi.info)
+[Avivi](http://avivi.info)
 
 ## License
 
