@@ -34,6 +34,7 @@ $_POST['EMAIL'], $_POST['NAME'], $_POST['LAST_NAME'], $_POST['CONFIRM_PASSWORD']
 $_POST['EMAIL'], $_POST['NAME'], $_POST['LAST_NAME'], $_POST['CONFIRM_PASSWORD']
 * For delete user - POST https://you-laravel-service-url.dev/redmine/user/destroy/{id}  width field:
 $_POST['ID']
+
 ## Change log
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
 
