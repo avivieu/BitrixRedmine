@@ -1,4 +1,4 @@
-# Laravel 5 service for integration users Bitrix24 to Redmine
+# Laravel 5 service for integration users from Bitrix24 to Redmine
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
