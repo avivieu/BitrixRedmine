@@ -1,10 +1,10 @@
 {
-    "name": "avivieu/BitrixRedmine",
+    "name": "avivieu/bitrix-redmine",
     "type": "library",
     "description": "Laravel 5 service for integration users Bitrix24 to Redmine",
     "keywords": [
         "avivieu",
-        "BitrixRedmine"
+        "bitrix-redmine"
     ],
     "homepage": "https://github.com/avivieu/BitrixRedmine",
     "license": "MIT",
