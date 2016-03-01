@@ -1,7 +1,7 @@
 {
     "name": "avivieu/BitrixRedmine",
     "type": "library",
-    "description": ":package_description",
+    "description": "Laravel service for integration users from Bitrix24 to Redmine",
     "keywords": [
         "avivieu",
         "BitrixRedmine"
