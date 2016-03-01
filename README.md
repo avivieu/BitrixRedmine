@@ -1,6 +1,6 @@
 # Laravel 5 service for integration users Bitrix24 to Redmine
 
-[![Latest Version on Packagist](https://packagist.org/packages/avivieu/bitrix-redmine)
+[![Latest Version on Packagist]](https://packagist.org/packages/avivieu/bitrix-redmine)
 [![Software License][ico-license]](LICENSE.md)
 
 ## Install steps
