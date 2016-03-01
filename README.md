@@ -9,7 +9,7 @@
 
 **Install service** 
 ``` bash
-$ composer require avivieu/bitrixRedmine
+$ composer require avivieu/bitrix-redmine
 ```
 
 **Publish assets** 
