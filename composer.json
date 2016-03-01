@@ -1,19 +1,19 @@
 {
-    "name": ":vendor/:package_name",
+    "name": "avivieu/BitrixRedmine",
     "type": "library",
     "description": ":package_description",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        "avivieu",
+        "BitrixRedmine"
     ],
-    "homepage": "https://github.com/:vendor/:package_name",
+    "homepage": "https://github.com/avivieu/BitrixRedmine",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
-            "role": "Developer"
+            "name": "avivi",
+            "email": "Bitrix@avivi.com.ua",
+            "homepage": "avivi.info",
+            "role": "Autor"
         }
     ],
     "require": {
@@ -27,12 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            ":vendor\\:package_name\\": "src"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            ":vendor\\:package_name\\Test\\": "tests"
+            "avivieu\\BitrixRedmine\\": "src"
         }
     },
     "scripts": {
