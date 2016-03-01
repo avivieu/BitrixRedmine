@@ -7,10 +7,6 @@
 
 **Install [Laravel](https://laravel.com/docs/5.2)**
 
-**Install dependencies** 
-```bash
-$ composer require kbsali/redmine-api:~1.0
-```
 **Install service** 
 ``` bash
 $ composer require avivieu/bitrixRedmine
